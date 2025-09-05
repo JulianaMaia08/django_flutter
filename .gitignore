@@ -1,0 +1,22 @@
+# Python / Django
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+venv/
+.env
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+ios/Pods/
+android/.gradle/
+android/local.properties
+
+# Sistema
+*.log
+.idea/
+.vscode/
+
